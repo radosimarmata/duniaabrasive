@@ -158,8 +158,8 @@ a {
     color: #25262a;
     letter-spacing: .2em;
     font-size: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 2px;
+    padding-right: 2px;
     border: 2px solid #25262a; }
     .site-navbar .site-logo a:hover {
       text-decoration: none; }
